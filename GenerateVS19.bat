@@ -1,2 +1,2 @@
 cd ..
-call BuildTools/windows/premake5.exe vs2019
+call BuildTools\\windows\\premake5.exe vs2019
